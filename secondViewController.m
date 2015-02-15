@@ -1,11 +1,3 @@
-//
-//  secondViewController.m
-//  hack
-//
-//  Created by Antonis papantoniou on 1/31/15.
-//  Copyright (c) 2015 Antonis papantoniou. All rights reserved.
-//
-
 #import "secondViewController.h"
 
 @interface secondViewController ()
