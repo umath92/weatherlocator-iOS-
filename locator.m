@@ -1,11 +1,3 @@
-//
-//  Location.m
-//  hack
-//
-//  Created by Antonis Papantoniou on 31/01/2015.
-//  Copyright (c) 2015 Antonis papantoniou. All rights reserved.
-//
-
 #import "Location.h"
 
 @interface Location()
